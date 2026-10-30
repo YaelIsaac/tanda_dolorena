@@ -17,8 +17,6 @@ Sistema de ahorro rotativo (tanda) para un grupo de vecinos. Registra quién apo
 
 ![Pruebas en verde](capturas/02_pruebas.jpeg)
 
-## Evidencia de la aplicación
-
 ### Pantalla inicial
 ![Pantalla inicial](capturas/03_pantalla_inicial.jpeg)
 
