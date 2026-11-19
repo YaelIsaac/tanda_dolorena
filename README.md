@@ -1,10 +1,10 @@
 # Tanda Doloreña con TDD · Flutter
 
-**Materia:** Desarrollo Móvil Integral
+**Materia:** Desarrollo de Aplicaciones Móviles
 **Universidad:** UTNG, Dolores Hidalgo
 **Profesor:** Anastacio Rodríguez García
 **Alumno:** González López Yael Isaac
-**Fecha:** 18 - noviembre - 2026
+**Fecha:** 30 - octubre - 2026
 
 ## Descripción
 
